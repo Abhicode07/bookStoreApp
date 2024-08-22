@@ -1,0 +1,94 @@
+[
+    {
+        "id" : 1,
+        "name" : "Zalim Duniya",
+        "title" :"Jagdish Bhagat",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },
+
+    {
+        "id" : 2,
+        "name" : "Ram: The Scion of Iskvaku",
+        "title" :"Amish Tripathi",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },
+
+    {
+        "id" : 3,
+        "name" : "Sita: The Warrior of Mithila",
+        "title" :"Amish Tripathi",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Kasoli ka Keher",
+        "title" :" Dinesh Pandit",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },{
+        "id" : 3,
+        "name" : "World War III",
+        "title" :" Chris Henry",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },{
+        "id" : 3,
+        "name" : "The God of Small Things",
+        "title" :"Arundhati Roy",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },{
+        "id" : 3,
+        "name" : "The Great Indian Novel",
+        "title" :"Shashi Tharoor",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },{
+        "id" : 3,
+        "name" : "Kasoli ka Keher",
+        "title" :" Dinesh Pandit",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },{
+        "id" : 3,
+        "name" : "Pyaar ka Arz",
+        "title" :" Dinesh Pandit",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },
+
+    {
+        "id" : 3,
+        "name" : "Raag Darbari",
+        "title" :"Sri Lal Shukla",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },{
+        "id" : 3,
+        "name" : "Kurukshetra",
+        "title" :"Ramdhari Singh Dinkar",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    },{
+        "id" : 3,
+        "name" : "Nirmala",
+        "title" :"Munshi Premchand",
+        "price": 0,
+        "category" :"Free",
+        "image": "banner.png"
+    }
+]
